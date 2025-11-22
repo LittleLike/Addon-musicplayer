@@ -77,7 +77,7 @@ const songs = [
     ,
     {
         path: 'Music/Life is strange 2.mp3',
-        displayName: 'Life is strange - Jonathan Morali',
+        displayName: 'Life is Strange - Jonathan Morali',
         cover: 'bg/Life is strange.jpg',
         artist: 'Jonathan Morali',
     }
