@@ -15,9 +15,21 @@ const music = new Audio();
 const songs = [
     {
         path: 'Music/Lake Bit of faith.mp3',
-        displayName: 'Lake/ Bit of faith',
+        displayName: 'Lake -  Bit of faith',
         cover: 'bg/Lake.jpg',
         artist: 'Malena Stark and Mia Niles',
+    },
+    {
+        path: 'Music/Lower Down the Bridge.mp3',
+        displayName: 'Lake - Lower Down the Bridge',
+        cover: 'bg/Lake.jpg',
+        artist: 'Yara Meyers',
+    },
+    {
+        path: 'Music/Last days of September.mp3',
+        displayName: 'Lake - Last days of September',
+        cover: 'bg/Lake.jpg',
+        artist: 'Lake Soundtrack',
     },
     {
         path: 'Music/Relax Pokemon.mp3',
@@ -55,19 +67,6 @@ const songs = [
         cover: 'bg/animal crossing wild world.jpg',
         artist: 'Nintendo',
     },
-    {
-        path: 'Music/Lower Down the Bridge.mp3',
-        displayName: 'Lake/ Lower Down the Bridge',
-        cover: 'bg/Lake.jpg',
-        artist: 'Yara Meyers',
-    },
-    {
-        path: 'Music/Last days of September.mp3',
-        displayName: 'Lake/ Last days of September',
-        cover: 'bg/Lake.jpg',
-        artist: 'Lake Soundtrack',
-    }
-    ,
     {
         path: 'Music/Life is strange.mp3',
         displayName: 'Life is Strange - Jonathan Morali',
